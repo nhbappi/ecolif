@@ -198,7 +198,7 @@ body{
     margin-left: 60px;
     color: rgb(106, 103, 103);
     font-size: 18px;
-    
+    margin-right: 35px;    
 }
 
 
@@ -258,10 +258,114 @@ body{
     color: white;
     padding: 10px;
     margin-left: 550px;
+    margin-top: -20px;
     
  
    
 }
+
+
+
+
+.blogs{
+    display: flex;
+    
+   
+
+}
+
+.blog1 img{
+    width: 100%;
+}
+.blog1{
+    margin: 60px;
+
+}
+.blog-head{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 60px;
+    margin-top: 80px;
+}
+    
+
+.blog2{
+    margin: 60px;
+}
+.blog2 img{
+    width: 100%;
+}
+
+
+
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: rgba(75,129,13,0.95);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+    margin-top: 100px;
+  }
+  .row{
+display: flex;
+
+  }
+  
+  .column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+    margin-left: 60px
+  }
+  .column img {
+    margin-left:50px;
+    margin-top: -60px;
+  }
+ .donate{
+     width: 580px;
+     background-color: rgba(75,129,13,0.95);
+ }
+
+  .donation h1{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 60px;
+    margin-top: 80px;
+  }
+  .donation p{
+    margin-left: 60px;
+    
+  }
+
+
+
+ 
+
+
 
 
 
