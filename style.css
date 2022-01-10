@@ -226,9 +226,16 @@ body{
     
     margin-left: 15px;
 }
+.project1 span{
+    color: rgba(75,129,13,0.95);
+    margin-left: 15px;
+}
 .project1 {
-    border: 1px solid rgb(62, 60, 60);
+    /* border: 1px solid rgb(62, 60, 60); */
     margin: 10px;
+    border: 1px solid rgb(62, 60, 60);
+    border-bottom: 5px solid #45a049;
+
     /* padding: 10px; */
    
     
@@ -264,6 +271,76 @@ body{
    
 }
 
+.donate-section{
+    
+}
+
+.donation{
+    text-align: center;
+    background-color: rgba(75,129,13,0.95);
+    color: white;
+    padding: 5px 0px 0px;
+    margin: 80px;
+    border: 1px solid gray;
+    
+}
+
+.donation-number{
+    display: flex;
+    background-color: white;
+    color: #45a049;
+    
+}
+.donation-number1{
+    
+    margin-left: 100px;
+}
+.donation-number1 p{
+    
+    color: black;
+}
+.donation-number2{
+    
+    margin-left: 100px;
+}
+.donation-number2 p{
+    
+    color: black;
+}
+.donation-number3{
+    
+    margin-left: 100px;
+}
+.donation-number3 p{
+    
+    color: black;
+}
+.donation-number4{
+    
+    margin-left: 100px;
+}
+.donation-number4 p{
+    
+    color: black;
+}
+
+.donate-btn{
+    padding:7px;
+    background-color: rgba(75,129,13,0.95);
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+
+
+}
+.donationbtn{
+    padding:5px;
+    background-color: white;
+
+
+}
+
+
 
 
 
@@ -294,6 +371,41 @@ body{
 }
 .blog2 img{
     width: 100%;
+}
+
+.user1{
+       color: rgba(75,129,13,0.95);
+       
+      
+
+
+}
+.user-name1{
+    margin-left: 10px;
+    color: rgba(75,129,13,0.95);
+}
+.user2{
+       color: rgba(75,129,13,0.95);
+
+        margin-left: 20px;
+      
+
+
+}
+.user-name2{
+    margin-left: 10px;
+    color: rgba(75,129,13,0.95);
+}
+.user3{
+       color: rgba(75,129,13,0.95);
+       margin-left: 20px;
+      
+
+
+}
+.user-name3{
+    margin-left: 10px;
+    color: rgba(75,129,13,0.95);
 }
 
 
